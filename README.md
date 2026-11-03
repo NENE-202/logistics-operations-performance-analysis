@@ -205,3 +205,31 @@ The page provides management with a centralised view of important business metri
 
 *Insert Executive Operations Overview dashboard screenshot here.*
 
+## 🚚 Drivers & Fleet Performance
+
+The Drivers & Fleet Performance page evaluates driver productivity and vehicle performance across logistics operations.
+
+It provides insights into driver contributions, trip completion, revenue generation and operational efficiency.
+
+### Key Performance Indicators (KPIs)
+- Total Drivers
+- Total Trips
+- Average MPG
+- Average Idle Hours
+- Revenue per Driver
+
+### Key Visualisations
+- Top 10 Drivers by Revenue
+- Top 10 Drivers by Trip Volume
+- Driver Efficiency: Idle Hours vs MPG
+- Top 10 Trucks by Revenue
+
+### Interactive Filters
+- Date Range
+- Driver
+- Truck
+
+This page enables management to compare driver performance, monitor fleet productivity and identify opportunities to improve operational efficiency.
+
+*Insert Drivers & Fleet Performance dashboard screenshot here.*
+

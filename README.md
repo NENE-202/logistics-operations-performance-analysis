@@ -127,5 +127,22 @@ The model provides the foundation for creating DAX measures, calculating key per
 
 ### Power BI Data Model
 
+## 📊 Power BI Implementation
+
+Microsoft Power BI Desktop was used to develop an interactive Logistics Operations Performance Dashboard.
+
+The implementation process involved:
+
+- Importing the 14 CSV datasets into Power BI.
+- Preparing and transforming the data using Power Query.
+- Reviewing data types and handling data-quality issues.
+- Establishing relationships between relevant tables in the Power BI data model.
+- Creating DAX measures to calculate key performance indicators (KPIs).
+- Developing interactive visualisations to analyse logistics operations.
+- Applying slicers and filters to allow users to explore performance across different dimensions.
+- Organising the report into four dashboard pages to support different areas of business analysis.
+
+The dashboard provides a centralised view of logistics performance and enables users to explore operational metrics through interactive reports.
+
 *Insert Power BI Model View screenshot here.*
 

@@ -166,3 +166,18 @@ Some of the measures created include:
 
 These measures provide management with an overview of operational performance and support comparisons across different dashboard pages.
 
+## 🎨 Dashboard Design
+
+The Logistics Operations Performance Dashboard was designed to provide a clear and interactive view of business performance.
+
+The design focused on presenting important operational metrics in a structured and user-friendly format.
+
+To improve readability and user experience:
+
+- KPI cards were used to display important performance indicators.
+- Charts were selected based on the business questions being investigated.
+- Slicers and filters were incorporated to allow users to explore data across different dimensions.
+- Related metrics and visualisations were organised into separate dashboard pages.
+- Consistent formatting was applied to improve readability and maintain a unified dashboard appearance.
+- Visualisations were arranged to help users move from high-level performance monitoring to more detailed operational analysis.
+

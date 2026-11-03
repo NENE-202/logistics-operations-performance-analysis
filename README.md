@@ -146,3 +146,23 @@ The dashboard provides a centralised view of logistics performance and enables u
 
 *Insert Power BI Model View screenshot here.*
 
+## 📈 DAX Measures
+
+DAX (Data Analysis Expressions) was used in Power BI to create measures for calculating key performance indicators (KPIs) and evaluating logistics operations.
+
+The measures support the analysis of revenue, trip volume, distance covered, fuel consumption, driver productivity and operational efficiency.
+
+Some of the measures created include:
+
+- Total Revenue
+- Total Trips
+- Total Miles
+- Total Fuel Consumption
+- Average MPG
+- Average Idle Hours
+- Revenue per Driver
+- Revenue per Mile
+- On-Time Delivery Rate
+
+These measures provide management with an overview of operational performance and support comparisons across different dashboard pages.
+

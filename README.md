@@ -74,6 +74,21 @@ This project was designed to answer the following business questions:
 
 The logistics dataset consists of 14 CSV files containing operational information related to customers, drivers, fleet activities, facilities, trips, revenue, fuel consumption and delivery performance.
 
+## 📊 Data Dictionary
+
+The logistics dataset contains 14 related tables. Each table provides information about a specific area of the business and supports the analysis of logistics operations.
+
+The following tables and columns have been identified so far:
+
+| Table | Description | Key Columns |
+|---|---|---|
+| Customers | Contains customer-related information. | To be verified |
+| Drivers | Stores driver details, employment information and experience. | driver_id, first_name, last_name, hire_date, termination_date, employment_status, cdl_class, years_experience |
+| Driver Monthly Metrics | Contains monthly driver performance and operational metrics. | driver_id, month, trips_completed, total_miles, total_revenue, average_mpg, total_fuel_gallons, on_time_delivery_rate, average_idle_hours |
+| Facilities | Contains information about logistics facilities and locations. | To be verified |
+
+The remaining tables and their columns will be documented after reviewing the Power BI data model to ensure accuracy.
+
 The datasets were imported into Microsoft Power BI, where Power Query was used for data preparation and transformation. The tables were then organised within the Power BI data model to support analysis across different areas of logistics operations.
 
 The dataset provides the foundation for evaluating operational performance, driver productivity, fleet efficiency, fuel consumption, operating costs and delivery performance.

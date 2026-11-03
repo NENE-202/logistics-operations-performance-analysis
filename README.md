@@ -93,3 +93,20 @@ The datasets were imported into Microsoft Power BI, where Power Query was used f
 
 The dataset provides the foundation for evaluating operational performance, driver productivity, fleet efficiency, fuel consumption, operating costs and delivery performance.
 
+## 🧹 Data Preparation
+
+Data preparation was carried out in Microsoft Power BI using Power Query to improve data consistency and prepare the datasets for analysis.
+
+The preparation process included:
+
+- Imported the 14 CSV files into Power BI.
+- Inspected the tables and reviewed their columns.
+- Checked for missing values in important identifier fields, including Driver ID, Truck ID and Trailer ID.
+- Reviewed and adjusted data types to ensure fields were suitable for analysis.
+- Set numerical fields such as trips completed and total miles to whole number data types.
+- Set financial and performance fields, including total revenue, average MPG, fuel consumption and delivery rates, to appropriate decimal data types.
+- Reviewed date fields to ensure they could support time-based analysis.
+- Prepared the tables for relationships within the Power BI data model.
+
+These preparation steps helped establish a consistent foundation for the development of the logistics performance dashboard.
+

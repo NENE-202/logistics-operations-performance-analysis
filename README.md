@@ -233,3 +233,30 @@ This page enables management to compare driver performance, monitor fleet produc
 
 *Insert Drivers & Fleet Performance dashboard screenshot here.*
 
+## ⛽ Operational Efficiency & Cost
+
+The Operational Efficiency & Cost page analyses fuel consumption, mileage and fuel-related expenses across logistics operations.
+
+The page helps identify fuel usage patterns, monitor operational costs and evaluate the relationship between distance travelled and fuel consumption.
+
+### Key Performance Indicators (KPIs)
+- Total Fuel
+- Total Miles
+- Average MPG
+- Total Fuel Cost
+- Fuel Cost per Mile
+
+### Key Visualisations
+- Monthly Fuel Consumption Trend
+- Monthly Fuel Cost Trend
+- Miles vs Fuel Consumption
+- Top 10 Trucks by Fuel Efficiency
+
+### Interactive Filters
+- Date Range
+- Truck
+
+This page supports management in monitoring fuel efficiency, identifying cost patterns and evaluating opportunities to reduce operational expenses.
+
+*Insert Operational Efficiency & Cost dashboard screenshot here.*
+

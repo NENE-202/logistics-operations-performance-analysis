@@ -110,3 +110,22 @@ The preparation process included:
 
 These preparation steps helped establish a consistent foundation for the development of the logistics performance dashboard.
 
+## 🔗 Power BI Data Model
+
+The 14 CSV datasets were brought into Microsoft Power BI, where a data model was developed to support analysis across different areas of logistics operations.
+
+Relationships were established between relevant tables using common identifier fields to enable information to be analysed across the dataset.
+
+The data model supports the analysis of:
+
+- Driver performance and monthly operational metrics.
+- Fleet performance and vehicle efficiency.
+- Customer and facility information.
+- Revenue, fuel consumption and delivery performance.
+
+The model provides the foundation for creating DAX measures, calculating key performance indicators (KPIs) and developing interactive dashboard pages.
+
+### Power BI Data Model
+
+*Insert Power BI Model View screenshot here.*
+

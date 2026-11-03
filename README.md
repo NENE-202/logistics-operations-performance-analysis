@@ -181,3 +181,27 @@ To improve readability and user experience:
 - Consistent formatting was applied to improve readability and maintain a unified dashboard appearance.
 - Visualisations were arranged to help users move from high-level performance monitoring to more detailed operational analysis.
 
+## 🏠 Executive Operations Overview
+
+The Executive Operations Overview provides a high-level summary of the logistics business's overall operational and financial performance.
+
+It enables management to monitor key performance indicators and identify important operational trends.
+
+### Key Performance Indicators (KPIs)
+- Total Revenue
+- Total Trips
+- Total Miles
+- Revenue per Mile
+- On-Time Delivery Rate
+- Average MPG
+
+### Key Visualisations
+- Monthly operational performance trends
+- Revenue performance
+- Delivery performance
+- Fuel efficiency overview
+
+The page provides management with a centralised view of important business metrics, supporting quick performance assessment and further investigation of operational activities.
+
+*Insert Executive Operations Overview dashboard screenshot here.*
+

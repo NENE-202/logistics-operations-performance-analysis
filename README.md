@@ -156,7 +156,7 @@ The implementation process involved:
 
 The dashboard provides a centralised view of logistics performance and enables users to explore operational metrics through interactive reports.
 
-![Power BI Data Model](screenshots/power-bi-data-model.png)
+![Power BI Data Model](./power-bi-data-model.png)
 
 ## 📈 DAX Measures
 
@@ -215,7 +215,7 @@ It enables management to monitor key performance indicators and identify importa
 
 The page provides management with a centralised view of important business metrics, supporting quick performance assessment and further investigation of operational activities.
 
-![Executive Operations Overview](screenshots/executive-overview.png)
+![Executive Operations Overview](./executive-overview.png)
 
 ## 🚚 Drivers & Fleet Performance
 
@@ -243,7 +243,7 @@ It provides insights into driver contributions, trip completion, revenue generat
 
 This page enables management to compare driver performance, monitor fleet productivity and identify opportunities to improve operational efficiency.
 
-![Drivers and Fleet Performance](screenshots/drivers-fleet-performance.png)
+![Drivers and Fleet Performance](./drivers-fleet-performance.png)
 
 ## ⛽ Operational Efficiency & Cost
 
@@ -270,7 +270,7 @@ The page helps identify fuel usage patterns, monitor operational costs and evalu
 
 This page supports management in monitoring fuel efficiency, identifying cost patterns and evaluating opportunities to reduce operational expenses.
 
-![Operational Efficiency and Cost](screenshots/operational-efficiency-cost.png)
+![Operational Efficiency and Cost](./operational-efficiency-cost.png)
 
 ## 📦 Delivery & Customer Performance
 
@@ -297,7 +297,7 @@ It helps management understand delivery performance, monitor customer-related ac
 - [Add the slicers displayed on the actual dashboard]
 
 This page supports the evaluation of delivery reliability and customer performance, providing information that can help management improve service quality and operational efficiency.
-![Delivery and Customer Performance](screenshots/delivery-customer-performance.png)
+![Delivery and Customer Performance](./delivery-customer-performance.png)
 
 ### 1. Executive Operations Overview
 - [Document the most important revenue and operational performance findings.]

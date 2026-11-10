@@ -73,7 +73,7 @@ This project was designed to answer the following business questions:
 ## 📂 Dataset Description
 
 The logistics dataset consists of 14 CSV files containing operational information related to customers, drivers, fleet activities, facilities, trips, revenue, fuel consumption and delivery performance.
-
+The original CSV files are not separately included in this repository. The Power BI project file is provided to demonstrate the report and its analytical implementation.
 ## 📊 Data Dictionary
 
 The logistics dataset contains 14 related tables. Each table provides information about a specific area of the business and supports the analysis of logistics operations.
@@ -127,6 +127,9 @@ The model provides the foundation for creating DAX measures, calculating key per
 
 ### Power BI Data Model
 
+The data model shows how the tables in the logistics dataset are connected within Power BI. These relationships support analysis across the different operational areas.
+
+![Power BI Data Model](screenshots/power-bi-data-model.png)
 ## 📊 Power BI Implementation
 
 Microsoft Power BI Desktop was used to develop an interactive Logistics Operations Performance Dashboard.
@@ -262,35 +265,9 @@ This page supports management in monitoring fuel efficiency, identifying cost pa
 
 ## 📦 Delivery & Customer Performance
 
-The Delivery & Customer Performance page evaluates delivery reliability and customer-related logistics performance.
+The Delivery & Customer Performance page evaluates delivery reliability and customer-related logistics activities.
 
-It provides insights into on-time delivery, customer activity and service performance, helping management identify areas that may require improvement.
-
-### Key Performance Indicators (KPIs)
-- On-Time Delivery Rate
-- Total Deliveries
-- Total Customers
-
-### Key Visualisations
-- On-Time Delivery Performance Trend
-- Delivery Performance by Customer
-- Top Customers by Revenue
-- Customer Delivery Performance Comparison
-
-### Interactive Filters
-- Date Range
-- Customer
-
-This page helps management monitor service reliability, understand customer performance and identify opportunities to improve delivery operations.
-
-
-![Delivery and Customer Performance](screenshots/delivery-customer-performance.png)
-
-## 📦 Delivery & Customer Performance
-
-The Delivery & Customer Performance page focuses on evaluating delivery reliability and customer-related logistics activities.
-
-It helps management understand how effectively deliveries are completed, monitor customer-related performance and identify areas that may require operational improvement.
+It helps management understand delivery performance, monitor customer-related activities and identify areas that may require operational improvement.
 
 ### Business Questions
 - What percentage of deliveries are completed on time?
@@ -301,28 +278,18 @@ It helps management understand how effectively deliveries are completed, monitor
 
 ### Key Performance Indicators (KPIs)
 - On-Time Delivery Rate
-- [Add other KPIs displayed on the actual dashboard]
+- [Add the other KPIs displayed on the actual dashboard]
 
 ### Key Visualisations
-- [Add the actual delivery performance visualisations]
-- [Add the actual customer performance visualisations]
+- [Add the actual delivery performance charts]
+- [Add the actual customer performance charts]
 
 ### Interactive Filters
-- [Add the slicers available on the actual dashboard]
+- [Add the slicers displayed on the actual dashboard]
 
 This page supports the evaluation of delivery reliability and customer performance, providing information that can help management improve service quality and operational efficiency.
 
-
-![Operational Efficiency and Cost](screenshots/operational-efficiency-cost.png)
-
----
-
-## 💡 Key Insights
-
-The Power BI dashboard provides an overview of logistics operations across revenue generation, driver and fleet performance, operational efficiency, fuel consumption and delivery performance.
-
-The following insights will be documented based on the results displayed in the completed dashboard:
-
+![Delivery & Customer Performance](screenshots/delivery-customer-performance.png)
 ### 1. Executive Operations Overview
 - [Document the most important revenue and operational performance findings.]
 - [Identify any significant trends in trips, mileage or delivery performance.]
@@ -342,10 +309,36 @@ The following insights will be documented based on the results displayed in the 
 These insights provide a basis for understanding operational performance and identifying areas that may require management attention.
 
 ---
+## 💡 Key Insights
 
+The Power BI dashboard provides insights into logistics operations across four key areas.
+
+### 1. Executive Operations Overview
+- Total revenue generated: [Insert verified value].
+- Total trips completed: [Insert verified value].
+- Total distance covered: [Insert verified value].
+- On-time delivery rate: [Insert verified value].
+
+### 2. Drivers & Fleet Performance
+- Highest revenue-generating driver: [Insert verified result].
+- Driver with the highest trip volume: [Insert verified result].
+- Fleet performance observation: [Insert verified result].
+
+### 3. Operational Efficiency & Cost
+- Total fuel consumption: [Insert verified value].
+- Total fuel cost: [Insert verified value].
+- Fuel efficiency observation: [Insert verified result].
+
+### 4. Delivery & Customer Performance
+- On-time delivery performance: [Insert verified result].
+- Highest revenue-generating customer: [Insert verified result].
+- Customer delivery performance observation: [Insert verified result].
+
+These findings highlight important areas of logistics performance and provide a basis for operational recommendations.
+## 
 ## 📌 Business Recommendations
 
-Based on the findings identified through the dashboard, the following recommendations can be considered by logistics management:
+The following recommendations represent potential actions that logistics management could consider when reviewing operational performance.
 
 1. **Improve Driver Performance Monitoring:** Regularly review driver productivity, trip completion and operational efficiency to identify areas requiring improvement.
 
@@ -353,31 +346,24 @@ Based on the findings identified through the dashboard, the following recommenda
 
 3. **Control Fuel Expenses:** Monitor fuel consumption and fuel-related costs to identify unusual spending patterns and opportunities to improve efficiency.
 
-4. **Improve Delivery Reliability:** Regularly monitor on-time delivery performance and investigate factors contributing to delivery delays.
+4. **Improve Delivery Reliability:** Monitor on-time delivery performance and investigate factors contributing to delivery delays.
 
-5. **Strengthen Customer Performance Monitoring:** Evaluate customer-related logistics activities to understand service requirements and identify opportunities to improve customer satisfaction.
+5. **Strengthen Customer Performance Monitoring:** Evaluate customer-related logistics activities to identify opportunities to improve service quality.
 
 6. **Support Data-Driven Decision-Making:** Use the Power BI dashboard for regular performance reviews and operational planning.
 
-These recommendations provide possible actions for improving logistics performance and should be prioritised according to the actual findings and business requirements.
+These recommendations should be prioritised according to the verified findings and the operational needs of the business.
+## ## ⚠️ Project Challenges
 
----
+During the development of this project, several challenges were encountered during data preparation, modelling and dashboard development.
 
-## ⚠️ Project Challenges
+- **Missing Values:** Missing values were identified in some important identifier fields, including Driver ID, Truck ID and Trailer ID. These required review during data preparation.
+- **Data Type Consistency:** Different data types had to be reviewed and adjusted to make the fields suitable for analysis.
+- **Data Modelling:** Establishing relationships between the different datasets required careful consideration of common identifier fields.
+- **DAX Calculations:** Developing operational and financial measures required attention to calculation logic and filter context.
+- **Visualisation Accuracy:** Some visualisations required additional checks to ensure that their results accurately represented the underlying data.
 
-During the development of this project, several data preparation, modelling and visualisation challenges were encountered.
-
-Some of the challenges included:
-
-- **Missing Values:** Certain identifier fields, including Driver ID, Truck ID and Trailer ID, contained missing values that required attention during data preparation.
-- **Data Type Consistency:** Reviewing and adjusting data types was necessary to ensure that numerical, financial and date fields were suitable for analysis.
-- **Data Modelling:** Establishing relationships between the different datasets required careful consideration of their common identifiers.
-- **DAX Calculations:** Creating measures for operational and financial indicators required attention to calculation logic and filter context.
-- **Visualisation Accuracy:** Some charts required additional checks to ensure that their displayed values accurately represented the underlying data.
-
-These challenges provided opportunities to review the data model, calculations and visual outputs during the development process.
-
----
+These challenges highlighted the importance of data quality, appropriate modelling and validation when developing Power BI dashboards.
 
 ## 📚 Lessons Learned
 
@@ -422,8 +408,6 @@ Junior Data Analyst | Power BI | Excel | SQL | Python
 
 This project demonstrates my practical experience in using Microsoft Power BI for data preparation, data modelling, DAX calculations, interactive visualisation and business performance analysis.
 
-- **GitHub:**https://github.com/NENE-202
-- **LinkedIn:** https://www.linkedin.com/in/esther-emmanuel7/
-
-
+- **GitHub:** [NENE-202](https://github.com/NENE-202)
+- **LinkedIn:** [Esther Emmanuel](https://www.linkedin.com/in/esther-emmanuel7/)
 

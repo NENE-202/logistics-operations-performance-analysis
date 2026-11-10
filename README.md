@@ -285,3 +285,143 @@ This page helps management monitor service reliability, understand customer perf
 
 *Insert Delivery & Customer Performance dashboard screenshot here.*
 
+## 📦 Delivery & Customer Performance
+
+The Delivery & Customer Performance page focuses on evaluating delivery reliability and customer-related logistics activities.
+
+It helps management understand how effectively deliveries are completed, monitor customer-related performance and identify areas that may require operational improvement.
+
+### Business Questions
+- What percentage of deliveries are completed on time?
+- How does on-time delivery performance change over time?
+- Which customers account for the highest logistics activity or revenue?
+- Are there differences in delivery performance across customers?
+- What areas require improvement to enhance service reliability?
+
+### Key Performance Indicators (KPIs)
+- On-Time Delivery Rate
+- [Add other KPIs displayed on the actual dashboard]
+
+### Key Visualisations
+- [Add the actual delivery performance visualisations]
+- [Add the actual customer performance visualisations]
+
+### Interactive Filters
+- [Add the slicers available on the actual dashboard]
+
+This page supports the evaluation of delivery reliability and customer performance, providing information that can help management improve service quality and operational efficiency.
+
+*Insert Delivery & Customer Performance dashboard screenshot here.*
+
+---
+
+## 💡 Key Insights
+
+The Power BI dashboard provides an overview of logistics operations across revenue generation, driver and fleet performance, operational efficiency, fuel consumption and delivery performance.
+
+The following insights will be documented based on the results displayed in the completed dashboard:
+
+### 1. Executive Operations Overview
+- [Document the most important revenue and operational performance findings.]
+- [Identify any significant trends in trips, mileage or delivery performance.]
+
+### 2. Drivers & Fleet Performance
+- [Identify drivers with the highest revenue or trip contributions.]
+- [Highlight important differences in driver and truck performance.]
+
+### 3. Operational Efficiency & Cost
+- [Describe fuel consumption and fuel cost patterns.]
+- [Identify differences in fuel efficiency across trucks, where supported by the data.]
+
+### 4. Delivery & Customer Performance
+- [Highlight the on-time delivery performance.]
+- [Identify important customer performance patterns.]
+
+These insights provide a basis for understanding operational performance and identifying areas that may require management attention.
+
+---
+
+## 📌 Business Recommendations
+
+Based on the findings identified through the dashboard, the following recommendations can be considered by logistics management:
+
+1. **Improve Driver Performance Monitoring:** Regularly review driver productivity, trip completion and operational efficiency to identify areas requiring improvement.
+
+2. **Monitor Fleet Efficiency:** Evaluate truck performance to identify vehicles that may require maintenance or further operational assessment.
+
+3. **Control Fuel Expenses:** Monitor fuel consumption and fuel-related costs to identify unusual spending patterns and opportunities to improve efficiency.
+
+4. **Improve Delivery Reliability:** Regularly monitor on-time delivery performance and investigate factors contributing to delivery delays.
+
+5. **Strengthen Customer Performance Monitoring:** Evaluate customer-related logistics activities to understand service requirements and identify opportunities to improve customer satisfaction.
+
+6. **Support Data-Driven Decision-Making:** Use the Power BI dashboard for regular performance reviews and operational planning.
+
+These recommendations provide possible actions for improving logistics performance and should be prioritised according to the actual findings and business requirements.
+
+---
+
+## ⚠️ Project Challenges
+
+During the development of this project, several data preparation, modelling and visualisation challenges were encountered.
+
+Some of the challenges included:
+
+- **Missing Values:** Certain identifier fields, including Driver ID, Truck ID and Trailer ID, contained missing values that required attention during data preparation.
+- **Data Type Consistency:** Reviewing and adjusting data types was necessary to ensure that numerical, financial and date fields were suitable for analysis.
+- **Data Modelling:** Establishing relationships between the different datasets required careful consideration of their common identifiers.
+- **DAX Calculations:** Creating measures for operational and financial indicators required attention to calculation logic and filter context.
+- **Visualisation Accuracy:** Some charts required additional checks to ensure that their displayed values accurately represented the underlying data.
+
+These challenges provided opportunities to review the data model, calculations and visual outputs during the development process.
+
+---
+
+## 📚 Lessons Learned
+
+Working on this project improved my understanding of how Power BI can be used to transform operational datasets into meaningful business information.
+
+The key lessons learned include:
+
+- Using Power Query to prepare and transform multiple datasets.
+- Understanding the importance of data quality and consistent data types.
+- Establishing relationships between tables within a Power BI data model.
+- Creating DAX measures to calculate key performance indicators.
+- Selecting appropriate visualisations based on business questions.
+- Using slicers and filters to support interactive data exploration.
+- Interpreting dashboard results and connecting analytical findings to business decisions.
+- Understanding the importance of validating calculations and visual outputs before presenting insights.
+
+The project also strengthened my ability to approach data analysis from a business perspective rather than focusing only on creating visualisations.
+
+---
+
+## 🚀 Future Improvements
+
+The project can be extended through the following improvements:
+
+- Incorporating more detailed delivery delay analysis.
+- Developing predictive models for delivery performance and operational planning.
+- Introducing more detailed fuel cost and consumption monitoring.
+- Expanding customer performance analysis.
+- Improving fleet maintenance monitoring.
+- Including additional operational data to support more detailed comparisons.
+- Enhancing the dashboard with further interactive reporting features.
+
+These improvements could provide additional analytical capabilities and support more comprehensive logistics performance monitoring.
+
+---
+
+## 👩‍💻 Author
+
+**Esther Ohuenene Emmanuel**
+
+Junior Data Analyst | Power BI | Excel | SQL | Python
+
+This project demonstrates my practical experience in using Microsoft Power BI for data preparation, data modelling, DAX calculations, interactive visualisation and business performance analysis.
+
+- **GitHub:**https://github.com/NENE-202
+- **LinkedIn:** https://www.linkedin.com/in/esther-emmanuel7/
+
+
+

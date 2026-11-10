@@ -144,7 +144,7 @@ The implementation process involved:
 
 The dashboard provides a centralised view of logistics performance and enables users to explore operational metrics through interactive reports.
 
-*Insert Power BI Model View screenshot here.*
+![Power BI Data Model](screenshots/power-bi-data-model.png)
 
 ## 📈 DAX Measures
 
@@ -203,7 +203,7 @@ It enables management to monitor key performance indicators and identify importa
 
 The page provides management with a centralised view of important business metrics, supporting quick performance assessment and further investigation of operational activities.
 
-*Insert Executive Operations Overview dashboard screenshot here.*
+![Executive Operations Overview](screenshots/executive-overview.png)
 
 ## 🚚 Drivers & Fleet Performance
 
@@ -231,7 +231,7 @@ It provides insights into driver contributions, trip completion, revenue generat
 
 This page enables management to compare driver performance, monitor fleet productivity and identify opportunities to improve operational efficiency.
 
-*Insert Drivers & Fleet Performance dashboard screenshot here.*
+![Drivers and Fleet Performance](screenshots/drivers-fleet-performance.png)
 
 ## ⛽ Operational Efficiency & Cost
 
@@ -283,7 +283,8 @@ It provides insights into on-time delivery, customer activity and service perfor
 
 This page helps management monitor service reliability, understand customer performance and identify opportunities to improve delivery operations.
 
-*Insert Delivery & Customer Performance dashboard screenshot here.*
+
+![Delivery and Customer Performance](screenshots/delivery-customer-performance.png)
 
 ## 📦 Delivery & Customer Performance
 
@@ -311,7 +312,8 @@ It helps management understand how effectively deliveries are completed, monitor
 
 This page supports the evaluation of delivery reliability and customer performance, providing information that can help management improve service quality and operational efficiency.
 
-*Insert Delivery & Customer Performance dashboard screenshot here.*
+
+![Operational Efficiency and Cost](screenshots/operational-efficiency-cost.png)
 
 ---
 

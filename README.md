@@ -377,3 +377,4 @@ This project demonstrates my practical experience in using Microsoft Power BI fo
 
 - **GitHub:** [NENE-202](https://github.com/NENE-202)
 - **LinkedIn:** [Esther Emmanuel](https://www.linkedin.com/in/esther-emmanuel7/)
+- **Gmail:** emmanueloziowuh@gmail.com

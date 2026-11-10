@@ -8,7 +8,17 @@ This project focuses on analysing logistics operations using Microsoft Power BI.
 
 The goal is to transform operational data into meaningful insights that can help stakeholders monitor business performance, identify operational inefficiencies and make informed decisions.
 
-The project involves data preparation, data cleaning, data modelling, DAX calculations and interactive dashboard development.
+The project involves data preparation, data cleaning, data modelling, DAX calculations and interactive dashboard development. ## 📊 Dashboard Preview
+
+The Power BI report consists of four interactive dashboard pages, each designed to examine a different aspect of logistics operations.
+
+| Executive Operations Overview | Drivers & Fleet Performance |
+|---|---|
+| [![Executive Operations Overview](screenshots/executive-overview.png)](screenshots/executive-overview.png) | [![Drivers & Fleet Performance](screenshots/drivers-fleet-performance.png)](screenshots/drivers-fleet-performance.png) |
+| **Operational Efficiency & Cost** | **Delivery & Customer Performance** |
+| [![Operational Efficiency & Cost](screenshots/operational-efficiency-cost.png)](screenshots/operational-efficiency-cost.png) | [![Delivery & Customer Performance](screenshots/delivery-customer-performance.png)](screenshots/delivery-customer-performance.png) |
+
+*Click any dashboard image to view the full-size screenshot.*
 ### Tools & Technologies
 - Microsoft Power BI
   - Power Query for data cleaning and transformation
@@ -129,7 +139,6 @@ The model provides the foundation for creating DAX measures, calculating key per
 
 The data model shows how the tables in the logistics dataset are connected within Power BI. These relationships support analysis across the different operational areas.
 
-![Power BI Data Model](screenshots/power-bi-data-model.png)
 ## 📊 Power BI Implementation
 
 Microsoft Power BI Desktop was used to develop an interactive Logistics Operations Performance Dashboard.
@@ -261,7 +270,7 @@ The page helps identify fuel usage patterns, monitor operational costs and evalu
 
 This page supports management in monitoring fuel efficiency, identifying cost patterns and evaluating opportunities to reduce operational expenses.
 
-*Insert Operational Efficiency & Cost dashboard screenshot here.*
+![Operational Efficiency and Cost](screenshots/operational-efficiency-cost.png)
 
 ## 📦 Delivery & Customer Performance
 
@@ -288,8 +297,7 @@ It helps management understand delivery performance, monitor customer-related ac
 - [Add the slicers displayed on the actual dashboard]
 
 This page supports the evaluation of delivery reliability and customer performance, providing information that can help management improve service quality and operational efficiency.
-
-![Delivery & Customer Performance](screenshots/delivery-customer-performance.png)delivery-customer-performance.png
+![Delivery and Customer Performance](screenshots/delivery-customer-performance.png)
 
 ### 1. Executive Operations Overview
 - [Document the most important revenue and operational performance findings.]
@@ -354,7 +362,7 @@ The following recommendations represent potential actions that logistics managem
 6. **Support Data-Driven Decision-Making:** Use the Power BI dashboard for regular performance reviews and operational planning.
 
 These recommendations should be prioritised according to the verified findings and the operational needs of the business.
-## ## ⚠️ Project Challenges
+## ⚠️ Project Challenges
 
 During the development of this project, several challenges were encountered during data preparation, modelling and dashboard development.
 

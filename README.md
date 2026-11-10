@@ -289,7 +289,8 @@ It helps management understand delivery performance, monitor customer-related ac
 
 This page supports the evaluation of delivery reliability and customer performance, providing information that can help management improve service quality and operational efficiency.
 
-![Delivery & Customer Performance](screenshots/delivery-customer-performance.png)
+![Delivery & Customer Performance](screenshots/delivery-customer-performance.png)delivery-customer-performance.png
+
 ### 1. Executive Operations Overview
 - [Document the most important revenue and operational performance findings.]
 - [Identify any significant trends in trips, mileage or delivery performance.]

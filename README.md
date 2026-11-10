@@ -260,3 +260,28 @@ This page supports management in monitoring fuel efficiency, identifying cost pa
 
 *Insert Operational Efficiency & Cost dashboard screenshot here.*
 
+## 📦 Delivery & Customer Performance
+
+The Delivery & Customer Performance page evaluates delivery reliability and customer-related logistics performance.
+
+It provides insights into on-time delivery, customer activity and service performance, helping management identify areas that may require improvement.
+
+### Key Performance Indicators (KPIs)
+- On-Time Delivery Rate
+- Total Deliveries
+- Total Customers
+
+### Key Visualisations
+- On-Time Delivery Performance Trend
+- Delivery Performance by Customer
+- Top Customers by Revenue
+- Customer Delivery Performance Comparison
+
+### Interactive Filters
+- Date Range
+- Customer
+
+This page helps management monitor service reliability, understand customer performance and identify opportunities to improve delivery operations.
+
+*Insert Delivery & Customer Performance dashboard screenshot here.*
+
